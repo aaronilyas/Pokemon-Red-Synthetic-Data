@@ -1,0 +1,193 @@
+[00000000 boot Pallet Town (00) xy=(0,0) face=00 battle=0 hp=- badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/0 keys=00 top=(0,0) ehp=0] recording start.state
+[00002400 boot Red's House 2F (26) xy=(3,6) face=00 battle=0 hp=- badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=1/7 keys=FF top=(1,3) ehp=0] steps=200 last=[]/16
+[00004208 boot Red's House 2F (26) xy=(3,7) face=00 battle=0 hp=- badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=1/7 keys=FF top=(1,3) ehp=0] bedroom at (3, 7) (walk confirmed)
+[00004208 bedroom Red's House 2F (26) xy=(3,7) face=00 battle=0 hp=- badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=1/7 keys=FF top=(1,3) ehp=0] saved milestone bedroom
+[00004736 pallet Pallet Town (00) xy=(3,7) face=00 battle=0 hp=- badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=1/7 keys=FF top=(1,3) ehp=0] saved milestone pallet
+[00004840 oak_intercept Pallet Town (00) xy=(5,7) face=0C battle=0 hp=- badge=00 joy=00 s5=00 walk=1 font=0 sim=0 wy=90 menu=1/7 keys=FF top=(1,3) ehp=0] steps=400 last=['RIGHT']/16
+[00006888 oak_intercept Oak's Lab (28) xy=(5,3) face=04 battle=0 hp=- badge=00 joy=FC s5=00 walk=0 font=1 sim=0 wy=00 menu=1/7 keys=FF top=(1,3) ehp=0] steps=600 last=[]/8
+[00007624 lab_entry Oak's Lab (28) xy=(5,3) face=04 battle=0 hp=- badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=1/7 keys=FF top=(1,3) ehp=0] saved milestone lab_entry
+[00008520 pick_bulbasaur Oak's Lab (28) xy=(8,4) face=04 battle=0 hp=0/0 lv0 badge=00 joy=00 s5=40 walk=0 font=1 sim=0 wy=00 menu=0/7 keys=FF top=(1,3) ehp=0] steps=800 last=['A']/8
+[00009056 pick_bulbasaur Oak's Lab (28) xy=(8,4) face=04 battle=0 hp=19/19 lv5 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=5/7 keys=FF top=(17,3) ehp=0] starter species=153
+[00009056 got_starter Oak's Lab (28) xy=(8,4) face=04 battle=0 hp=19/19 lv5 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=5/7 keys=FF top=(17,3) ehp=0] saved milestone got_starter
+[00009696 rival_lab Oak's Lab (28) xy=(5,6) face=04 battle=2 hp=19/19 lv5 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=5/7 keys=FF top=(17,3) ehp=0] battle start
+[00010216 rival_lab Oak's Lab (28) xy=(5,6) face=04 battle=2 hp=19/19 lv5 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=1/7 keys=FF top=(17,3) ehp=19] steps=1000 last=['A']/8
+[00010960 rival_lab Oak's Lab (28) xy=(5,6) face=04 battle=2 hp=15/19 lv5 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=13] battle loop 80 want_potion=False
+[00011816 rival_lab Oak's Lab (28) xy=(5,6) face=04 battle=2 hp=15/19 lv5 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=9] steps=1200 last=['A']/8
+[00012256 rival_lab Oak's Lab (28) xy=(5,6) face=04 battle=2 hp=15/19 lv5 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=6] battle loop 160 want_potion=False
+[00013416 rival_lab Oak's Lab (28) xy=(5,6) face=04 battle=2 hp=11/19 lv5 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=0] steps=1400 last=['A']/8
+[00013536 rival_lab Oak's Lab (28) xy=(5,6) face=04 battle=2 hp=7/19 lv5 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=0] battle loop 240 want_potion=False
+[00014688 rival_lab Oak's Lab (28) xy=(5,6) face=00 battle=0 hp=21/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] battle end
+[00014688 rival_done Oak's Lab (28) xy=(5,6) face=00 battle=0 hp=21/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] saved milestone rival_done
+[00014792 pallet_after_starter Pallet Town (00) xy=(5,11) face=00 battle=0 hp=21/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] saved milestone pallet_after_starter
+[00015224 route1_viridian Pallet Town (00) xy=(10,4) face=04 battle=0 hp=21/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] steps=1600 last=['UP']/16
+[00017136 viridian Viridian City (01) xy=(20,35) face=04 battle=0 hp=21/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] saved milestone viridian
+[00018064 mart_parcel Viridian City (01) xy=(31,28) face=04 battle=0 hp=21/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] steps=1800 last=['UP']/16
+[00020224 got_parcel Viridian City (01) xy=(3,7) face=00 battle=0 hp=21/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] saved milestone got_parcel
+[00020496 deliver_parcel Viridian City (01) xy=(26,26) face=08 battle=0 hp=21/21 lv6 badge=00 joy=00 s5=00 walk=1 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] steps=2000 last=['LEFT']/16
+[00021048 deliver_parcel Route 1 (0C) xy=(10,7) face=00 battle=1 hp=21/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=15] battle start
+[00022304 deliver_parcel Route 1 (0C) xy=(10,7) face=00 battle=1 hp=18/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=5] steps=2200 last=['A']/8
+[00022312 deliver_parcel Route 1 (0C) xy=(10,7) face=00 battle=1 hp=18/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=03 menu=0/3 keys=C7 top=(5,12) ehp=5] battle loop 80 want_potion=False
+[00022792 deliver_parcel Route 1 (0C) xy=(10,7) face=00 battle=0 hp=15/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] battle end
+[00023648 deliver_parcel Route 1 (0C) xy=(12,22) face=0C battle=1 hp=15/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=15] battle start
+[00024248 deliver_parcel Route 1 (0C) xy=(12,22) face=0C battle=1 hp=15/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=15] steps=2400 last=['A']/8
+[00024928 deliver_parcel Route 1 (0C) xy=(12,22) face=0C battle=1 hp=15/21 lv6 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=10] battle loop 80 want_potion=False
+[00025848 deliver_parcel Route 1 (0C) xy=(12,22) face=0C battle=1 hp=12/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=0] steps=2600 last=['A']/8
+[00026192 deliver_parcel Route 1 (0C) xy=(12,22) face=0C battle=0 hp=12/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] battle end
+[00027824 deliver_parcel Oak's Lab (28) xy=(5,3) face=04 battle=0 hp=12/23 lv7 badge=00 joy=00 s5=00 walk=0 font=1 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=0] steps=2800 last=['A']/8
+[00029496 deliver_parcel Oak's Lab (28) xy=(5,3) face=04 battle=0 hp=12/23 lv7 badge=00 joy=FC s5=00 walk=0 font=1 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=0] steps=3000 last=[]/8
+[00030568 pokedex Pallet Town (00) xy=(4,11) face=00 battle=0 hp=12/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/3 keys=C7 top=(5,12) ehp=0] saved milestone pokedex
+[00031008 back_to_viridian Route 1 (0C) xy=(10,34) face=04 battle=1 hp=12/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=15] battle start
+[00031416 back_to_viridian Route 1 (0C) xy=(10,34) face=04 battle=1 hp=12/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/3 keys=C7 top=(5,12) ehp=15] steps=3200 last=['A']/8
+[00032272 back_to_viridian Route 1 (0C) xy=(10,34) face=04 battle=1 hp=9/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=5] battle loop 80 want_potion=False
+[00032896 back_to_viridian Route 1 (0C) xy=(10,34) face=04 battle=0 hp=5/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00033104 back_to_viridian Route 1 (0C) xy=(12,28) face=0C battle=0 hp=5/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=3400 last=['RIGHT']/16
+[00033936 back_to_viridian Route 1 (0C) xy=(16,28) face=04 battle=1 hp=5/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] battle start
+[00035096 back_to_viridian Route 1 (0C) xy=(16,28) face=04 battle=1 hp=5/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=10] steps=3600 last=['A']/8
+[00035216 back_to_viridian Route 1 (0C) xy=(16,28) face=04 battle=1 hp=5/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=5] battle loop 80 want_potion=False
+[00035680 back_to_viridian Pallet Town (00) xy=(5,6) face=08 battle=0 hp=23/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=5] battle end
+[00037432 back_to_viridian Route 1 (0C) xy=(4,21) face=08 battle=0 hp=23/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=5] steps=3800 last=['LEFT']/16
+[00038000 back_to_viridian Route 1 (0C) xy=(16,8) face=04 battle=1 hp=23/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=14] battle start
+[00039256 back_to_viridian Route 1 (0C) xy=(16,8) face=04 battle=1 hp=20/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=4] steps=4000 last=['A']/8
+[00039264 back_to_viridian Route 1 (0C) xy=(16,8) face=04 battle=1 hp=20/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=4] battle loop 80 want_potion=False
+[00039808 back_to_viridian Route 1 (0C) xy=(16,8) face=04 battle=0 hp=20/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00040112 viridian_ready Viridian City (01) xy=(20,35) face=04 battle=0 hp=20/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] saved milestone viridian_ready
+[00041552 route2_forest Route 2 (0D) xy=(4,50) face=04 battle=0 hp=20/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=4200 last=['UP']/16
+[00041640 route2_forest Route 2 (0D) xy=(4,48) face=04 battle=1 hp=20/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=13] battle start
+[00042920 route2_forest Route 2 (0D) xy=(4,48) face=04 battle=1 hp=17/23 lv7 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00043192 route2_forest Route 2 (0D) xy=(4,48) face=04 battle=1 hp=19/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=4400 last=[]/8
+[00043256 route2_forest Route 2 (0D) xy=(4,48) face=08 battle=0 hp=19/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00043848 route2_forest Route 2 (0D) xy=(8,48) face=0C battle=1 hp=19/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] battle start
+[00045064 route2_forest Route 2 (0D) xy=(8,48) face=0C battle=1 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=4600 last=[]/8
+[00045128 route2_forest Route 2 (0D) xy=(8,48) face=0C battle=1 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00045288 route2_forest Route 2 (0D) xy=(8,48) face=0C battle=0 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00047560 forest_traverse Viridian Forest (33) xy=(13,11) face=04 battle=0 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=1 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=4800 last=['UP']/16
+[00048088 forest_traverse Viridian Forest (33) xy=(8,16) face=00 battle=1 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=17] battle start
+[00049368 forest_traverse Viridian Forest (33) xy=(8,16) face=00 battle=1 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=7] steps=5000 last=[]/8
+[00049368 forest_traverse Viridian Forest (33) xy=(8,16) face=00 battle=1 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=7] battle loop 80 want_potion=False
+[00049864 forest_traverse Viridian Forest (33) xy=(8,16) face=00 battle=0 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00050536 forest_traverse Viridian Forest (33) xy=(1,18) face=04 battle=2 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle start
+[00051160 forest_traverse Viridian Forest (33) xy=(1,18) face=04 battle=2 hp=16/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=27] steps=5200 last=[]/8
+[00051800 forest_traverse Viridian Forest (33) xy=(1,18) face=04 battle=2 hp=13/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=22] battle loop 80 want_potion=False
+[00052760 forest_traverse Viridian Forest (33) xy=(1,18) face=04 battle=2 hp=7/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=12] steps=5400 last=[]/8
+[00053080 forest_traverse Viridian Forest (33) xy=(1,18) face=04 battle=2 hp=7/25 lv8 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=1/4 keys=C7 top=(5,12) ehp=7] battle loop 160 want_potion=False
+[00054360 forest_traverse Viridian Forest (33) xy=(1,18) face=04 battle=2 hp=6/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=5600 last=[]/8
+[00054376 forest_traverse Viridian Forest (33) xy=(1,18) face=04 battle=2 hp=6/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 240 want_potion=False
+[00054648 forest_traverse Viridian Forest (33) xy=(1,18) face=04 battle=0 hp=6/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00056032 route2_north Route 2 (0D) xy=(5,0) face=04 battle=0 hp=6/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] saved milestone route2_north
+[00056248 route2_north Route 2 (0D) xy=(3,4) face=04 battle=1 hp=6/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=13] battle start
+[00056632 route2_north Route 2 (0D) xy=(3,4) face=04 battle=1 hp=6/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=13] steps=5800 last=[]/8
+[00057512 route2_north Route 2 (0D) xy=(3,4) face=04 battle=1 hp=4/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00057608 route2_north Route 2 (0D) xy=(3,4) face=04 battle=0 hp=4/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00057816 pewter Pewter City (02) xy=(18,35) face=04 battle=0 hp=4/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] saved milestone pewter
+[00058696 pewter_prep Pewter Pokecenter (3A) xy=(3,7) face=04 battle=0 hp=4/27 lv9 badge=00 joy=00 s5=24 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=6000 last=['A']/8
+[00059664 pewter_healed Pewter City (02) xy=(3,7) face=00 battle=0 hp=27/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/1 keys=03 top=(12,8) ehp=0] saved milestone pewter_healed
+[00060560 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=27/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/1 keys=03 top=(12,8) ehp=16] battle start
+[00060736 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=27/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/1 keys=03 top=(12,8) ehp=16] steps=6200 last=[]/8
+[00061824 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=25/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00062048 pewter_grind Route 2 (0D) xy=(4,3) face=0C battle=0 hp=25/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00062128 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=25/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] battle start
+[00062368 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=25/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=15] steps=6400 last=[]/8
+[00063408 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=22/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00063584 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=0 hp=22/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00063672 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=22/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=15] battle start
+[00064000 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=22/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] steps=6600 last=['A']/8
+[00064952 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=20/27 lv9 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00065384 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=0 hp=22/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00065592 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=22/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] battle start
+[00065672 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=22/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] steps=6800 last=[]/8
+[00066872 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=19/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00067112 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=0 hp=19/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00067312 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=19/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=19] battle start
+[00067344 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=19/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=19] steps=7000 last=[]/8
+[00068576 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=14/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=4] battle loop 80 want_potion=False
+[00068944 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=14/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=7200 last=[]/8
+[00069168 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=0 hp=14/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00069256 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=14/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=16] battle start
+[00070536 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=14/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00070576 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=14/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=7400 last=['A']/8
+[00070792 pewter_grind Route 2 (0D) xy=(4,3) face=0C battle=0 hp=14/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00071080 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=14/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=16] battle start
+[00072272 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=12/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=6] steps=7600 last=['A']/8
+[00072360 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=12/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00072584 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=0 hp=12/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00072936 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=12/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=17] battle start
+[00073992 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=12/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=1/4 keys=C7 top=(5,12) ehp=8] steps=7800 last=[]/8
+[00074216 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=12/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00074392 pewter_grind Route 2 (0D) xy=(4,3) face=0C battle=0 hp=12/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00074672 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=12/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=19] battle start
+[00075688 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=12/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=7] steps=8000 last=['A']/8
+[00075952 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=6/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00076176 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=0 hp=6/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00077528 pewter_grind Pewter Pokecenter (3A) xy=(3,3) face=04 battle=0 hp=29/29 lv10 badge=00 joy=00 s5=00 walk=0 font=1 sim=0 wy=90 menu=0/1 keys=03 top=(12,8) ehp=0] steps=8200 last=[]/8
+[00078368 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=29/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/1 keys=03 top=(12,8) ehp=19] battle start
+[00079440 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=26/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=11] steps=8400 last=[]/8
+[00079632 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=26/29 lv10 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00080016 pewter_grind Route 2 (0D) xy=(4,3) face=0C battle=0 hp=29/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00080136 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=29/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=15] battle start
+[00081080 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=29/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=5] steps=8600 last=[]/8
+[00081416 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=26/32 lv11 badge=00 joy=00 s5=40 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00081592 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=0 hp=26/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00082184 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=26/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=17] battle start
+[00082880 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=26/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=17] steps=8800 last=['A']/8
+[00083464 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=23/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=1] battle loop 80 want_potion=False
+[00084040 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=0 hp=20/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00084248 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=20/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] battle start
+[00084552 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=20/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] steps=9000 last=[]/8
+[00085512 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=17/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00085640 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=0 hp=17/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00085760 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=17/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=17] battle start
+[00086192 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=17/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=17] steps=9200 last=[]/8
+[00087024 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=12/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00087184 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=0 hp=12/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00087368 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=12/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=19] battle start
+[00087856 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=12/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=19] steps=9400 last=['A']/8
+[00088632 pewter_grind Route 2 (0D) xy=(5,3) face=0C battle=1 hp=7/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=4] battle loop 80 want_potion=False
+[00089224 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=0 hp=7/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00089608 pewter_grind Pewter City (02) xy=(18,26) face=08 battle=0 hp=7/32 lv11 badge=00 joy=00 s5=00 walk=2 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=9600 last=['LEFT']/16
+[00091192 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=1 hp=32/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/1 keys=03 top=(12,8) ehp=17] battle start
+[00091528 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=1 hp=32/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/1 keys=03 top=(12,8) ehp=17] steps=9800 last=[]/8
+[00092456 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=1 hp=32/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00092664 pewter_grind Route 2 (0D) xy=(5,3) face=08 battle=0 hp=32/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00092752 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=32/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] battle start
+[00093160 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=32/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=15] steps=10000 last=['A']/8
+[00094016 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=30/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=4] battle loop 80 want_potion=False
+[00094760 pewter_grind Route 2 (0D) xy=(4,3) face=08 battle=1 hp=30/32 lv11 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=10200 last=['A']/8
+[00095008 pewter_grind Route 2 (0D) xy=(4,3) face=0C battle=0 hp=32/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] battle end
+[00095232 pewter_healed Pewter City (02) xy=(18,33) face=04 battle=0 hp=32/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] saved milestone pewter_healed
+[00097368 pewter_gym Pewter Gym (36) xy=(2,10) face=0C battle=0 hp=32/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=10400 last=['RIGHT']/16
+[00098056 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=32/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle start
+[00099096 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=27/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=1/4 keys=C7 top=(5,12) ehp=17] steps=10600 last=[]/8
+[00099320 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=27/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=17] battle loop 80 want_potion=False
+[00100600 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=12/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=1/4 keys=C7 top=(5,12) ehp=33] battle loop 160 want_potion=False
+[00100696 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=12/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=33] steps=10800 last=[]/8
+[00101736 pewter_gym Pewter City (02) xy=(13,26) face=00 battle=0 hp=34/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=23] battle end
+[00102760 pewter_gym Pewter City (02) xy=(9,24) face=0C battle=0 hp=34/34 lv12 badge=00 joy=00 s5=00 walk=1 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=23] steps=11000 last=['RIGHT']/16
+[00105168 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=0 hp=34/34 lv12 badge=00 joy=00 s5=00 walk=0 font=1 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=23] steps=11200 last=['A']/8
+[00105608 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=34/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=23] battle start
+[00106776 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=28/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=32] steps=11400 last=[]/8
+[00106872 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=28/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=31] battle loop 80 want_potion=False
+[00108168 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=28/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=28] battle loop 160 want_potion=False
+[00108376 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=22/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=28] steps=11600 last=[]/8
+[00109448 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=16/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=24] battle loop 240 want_potion=False
+[00109976 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=10/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=07 menu=0/4 keys=C7 top=(5,12) ehp=23] steps=11800 last=[]/8
+[00110728 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=4/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=20] battle loop 320 want_potion=False
+[00111240 pewter_gym Pewter City (02) xy=(13,26) face=04 battle=0 hp=34/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=20] battle end
+[00111832 pewter_gym Pewter City (02) xy=(4,28) face=08 battle=0 hp=34/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=0/4 keys=C7 top=(5,12) ehp=20] steps=12000 last=['LEFT']/16
+[00114344 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=0 hp=34/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=20] steps=12200 last=[]/8
+[00114424 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=34/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=20] battle start
+[00115688 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=29/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=17] battle loop 80 want_potion=False
+[00115944 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=24/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=17] steps=12400 last=[]/8
+[00116968 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=14/34 lv12 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] battle loop 160 want_potion=False
+[00117544 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=11/36 lv13 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/4 keys=C7 top=(5,12) ehp=0] steps=12600 last=[]/8
+[00118264 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=11/36 lv13 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=0/5 keys=C7 top=(5,12) ehp=29] battle loop 240 want_potion=False
+[00119168 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=2 hp=11/36 lv13 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=3/5 keys=C7 top=(5,12) ehp=0] steps=12800 last=[]/8
+[00119568 pewter_gym Pewter Gym (36) xy=(4,6) face=04 battle=0 hp=11/36 lv13 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=90 menu=3/5 keys=C7 top=(5,12) ehp=0] battle end
+[00120880 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=11/36 lv13 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=3/5 keys=C7 top=(5,12) ehp=0] battle start
+[00120984 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=11/36 lv13 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=3/5 keys=C7 top=(5,12) ehp=0] steps=13000 last=['A']/8
+[00122216 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=5/36 lv13 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=3/5 keys=C7 top=(5,12) ehp=0] battle loop 80 want_potion=False
+[00122608 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=7/38 lv14 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=1/5 keys=C7 top=(5,12) ehp=36] steps=13200 last=['A']/8
+[00123512 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=9/40 lv15 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=3/5 keys=C7 top=(5,12) ehp=0] battle loop 160 want_potion=False
+[00124208 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=2 hp=9/40 lv15 badge=00 joy=00 s5=00 walk=0 font=0 sim=0 wy=00 menu=3/5 keys=C7 top=(5,12) ehp=0] steps=13400 last=['A']/8
+[00125064 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=0 hp=9/40 lv15 badge=00 joy=F0 s5=00 walk=0 font=1 sim=0 wy=00 menu=3/5 keys=C7 top=(5,12) ehp=0] battle end
+[00125352 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=0 hp=9/40 lv15 badge=01 joy=00 s5=00 walk=0 font=1 sim=0 wy=00 menu=3/5 keys=C7 top=(5,12) ehp=0] Boulder Badge obtained
+[00125352 pewter_gym Pewter Gym (36) xy=(4,2) face=04 battle=0 hp=9/40 lv15 badge=01 joy=00 s5=00 walk=0 font=1 sim=0 wy=00 menu=3/5 keys=C7 top=(5,12) ehp=0] DONE boulder badge

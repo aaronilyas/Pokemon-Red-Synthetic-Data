@@ -1,0 +1,20 @@
+{
+  "rom_path": "/Users/aaronilyas/Pokemon-Red-Synthetic-Data/Pokemon - Red Version (USA, Europe).gb",
+  "rom_title": "POKEMON RED",
+  "rom_sha256": "5ca7ba01642a3b27b0cc0b5349b52792795b62d3ed977e98a09390659af96b7b",
+  "rom_size": 1048576,
+  "pyboy_version": "2.7.0",
+  "frame_count_end": 125351,
+  "pyboy_frame_count": 125352,
+  "steps": 13543,
+  "badges": 1,
+  "map": 54,
+  "xy": [
+    4,
+    2
+  ],
+  "party_count": 1,
+  "result": "boulder_badge",
+  "milestone": "brock",
+  "retries": []
+}

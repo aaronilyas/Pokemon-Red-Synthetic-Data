@@ -12,4 +12,7 @@ Pokemon*.gb
 *.gbc
 runs/*
 !runs/README.md
+!runs/first_gym_001/
+!runs/first_gym_001/**
+runs/**/.DS_Store
 .grok/config.toml
