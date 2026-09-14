@@ -1,0 +1,11 @@
+.venv/
+roms/*.gb
+roms/*.gbc
+data/ep*/
+data/tmp/
+data/saves/*.state
+__pycache__/
+*.pyc
+.DS_Store
+Pokemon*.gb
+.grok/config.toml
