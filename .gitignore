@@ -8,4 +8,8 @@ __pycache__/
 *.pyc
 .DS_Store
 Pokemon*.gb
+*.gb
+*.gbc
+runs/*
+!runs/README.md
 .grok/config.toml
